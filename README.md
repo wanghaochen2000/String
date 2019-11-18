@@ -10,7 +10,7 @@
    本实验有三个要求，首先完成每7个汉字加入一个标点符号，奇数时加“，”，偶数时加“。编写一个separateword类实现，运用for循环完成没7个加入一个，在7个加入。换行。从main中传入args【0】作为输入的字符串。然后是第二个要求我写了countword类实现了查找词，先用while（contains）找到那个词，找到了就加一，然后删除那个词在循环，知道没有找到退出循环。最后加入异常处理，当值是空的时候触发ArrayIndexOutOfBoundsException  提示未提供任何参数。
 四流程图
 
-
+ ![image](https://github.com/wanghaochen2000/String/blob/master/捕获.jpg)
 
 
 
@@ -63,7 +63,9 @@ public static void countWord(String s,String word)
 这是主函数，通过args传入字符串s1和字符串s3
 然后调用separateword类实现分词，在调用countWord类实现计数。最后如果出现错误则跳出相对应的错误让调试员知道。
 六系统运行截图
- https://github.com/wanghaochen2000/String/blob/master/123.jpg
+ ![image](https://github.com/wanghaochen2000/String/blob/master/123.jpg)
+  ![image](https://github.com/wanghaochen2000/String/blob/master/1234.jpg)
+
  
 
 
