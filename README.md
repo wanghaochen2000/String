@@ -63,7 +63,7 @@ public static void countWord(String s,String word)
 这是主函数，通过args传入字符串s1和字符串s3
 然后调用separateword类实现分词，在调用countWord类实现计数。最后如果出现错误则跳出相对应的错误让调试员知道。
 六系统运行截图
- 123.jpg   
+ https://github.com/wanghaochen2000/String/blob/master/README.md
  
 
 
