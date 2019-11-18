@@ -15,7 +15,7 @@
 四流程图
 --
 
-    ![image](https://github.com/wanghaochen2000/String/blob/master/12345.jpg)
+  ![image](https://github.com/wanghaochen2000/String/blob/master/12345.jpg)
     
 
 
@@ -71,8 +71,8 @@
      然后调用separateword类实现分词，在调用countWord类实现计数。最后如果出现错误则跳出相对应的错误让调试员知道。
 六系统运行截图
 --
-    ![image](https://github.com/wanghaochen2000/String/blob/master/123.jpg)
-    ![image](https://github.com/wanghaochen2000/String/blob/master/1234.jpg)
+  ![image](https://github.com/wanghaochen2000/String/blob/master/123.jpg)
+  ![image](https://github.com/wanghaochen2000/String/blob/master/1234.jpg)
 
  
 
